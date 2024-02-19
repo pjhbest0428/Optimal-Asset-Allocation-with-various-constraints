@@ -19,7 +19,8 @@ Brief summary and historical flow of portfolio theory.
      
 |  Date  |       keywords        |Author                                          |Paper                                                                                                                                                                   |     Publication    |
 | :-----: | :------------------: | :--------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-----------------------------------------------------------: |
-| 2011  | Liquidity, portfolio constraints, position limits, transaction costs, mutual funds, optimal investment         | Min Dai et al.  | Illiquidity, position limits, and optimal investment for mutual funds |  Journal of Economic Theory (JET) |
+| 2011  | Liquidity, portfolio constraints, position limits, transaction costs, mutual funds, optimal investment         | Min Dai et al.  | [Illiquidity, position limits, and optimal investment for mutual funds]([https://www.google.com](http://apps.olin.wustl.edu/faculty/liuh/Papers/JET_AIP_Dai_Jin_Liu.pdf))
+ |  Journal of Economic Theory (JET) |
 |   |          |   |      |             |
 |   |          |   |      |             |
 |   |          |   |      |             |
