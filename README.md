@@ -1,18 +1,19 @@
 # Optimal-Asset-Allocation-history
 
 
+## Table of Contents
+
+
+- Contents
+  - [To-Do](#To-Do)
+  - [Papers](#Papers)
+
+
+
 
 ### To-Do
 Brief summary and historical flow of portfolio theory.
 
-
-
-## Table of Contents
-
-
-- 
-  - [To-Do](#To-Do)
-  - [Papers](#Papers)
 
 
 ## Papers
