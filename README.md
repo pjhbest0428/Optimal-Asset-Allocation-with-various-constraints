@@ -25,7 +25,7 @@ Brief summary and historical flow of portfolio theory.
 | 2018  | Varying Transaction Cost, proportional TC, Trading Speed, Certainty Equivalence, Liquidity premia         | Hong Liu, Jing Xu  | [Fast or Slow : Optimal Trading Strategies with Speed-Dependent Transaction Cost](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3226508) | SSRN   | R | In this paper, proportional transaction cost with varying proportion is introduced, and the efficiency for that strategy is measured by using various certainty equivalence (CEW, CESL, Expected Time for liquidation)
 | 2023  | Optimal consumption and portfolio selection for retirees under inflation and pension default risk | Zhenmei Lin, Chong Lai  | [Optimal Consumption and Portfolio Selection for Retirees Under Inflation and Pension Default Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519651) | SSRN | R | TBD
 | 2007  | Liquidity Premia and Transaction Cost | Bong-Gyu Jang, Hyeng Keun Koo, Hong Liu, and Mark Loewenstein | [Liquidity Premia and Transaction Cost](https://www.jstor.org/stable/4622337)  | Journal of Finance (JF) | TBR | |
-| 1986 | Capital Market Equilibrium with Transaction Costs | Constantinides | [Capital Market Equilibrium with Transaction Costs] (https://www.jstor.org/stable/1833205) | Journal of Political Economy (JPE) | R | |
+| 1986 | Capital Market Equilibrium with Transaction Costs | Constantinides | [Capital Market Equilibrium with Transaction Costs](https://www.jstor.org/stable/1833205) | Journal of Political Economy (JPE) | R | |
 
 
 
