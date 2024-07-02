@@ -26,6 +26,7 @@ Brief summary and historical flow of portfolio theory.
 | 2023  | Optimal consumption and portfolio selection for retirees under inflation and pension default risk | Zhenmei Lin, Chong Lai  | [Optimal Consumption and Portfolio Selection for Retirees Under Inflation and Pension Default Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519651) | SSRN | R | TBD
 | 2007  | Liquidity Premia and Transaction Cost | Bong-Gyu Jang, Hyeng Keun Koo, Hong Liu, and Mark Loewenstein | [Liquidity Premia and Transaction Cost](https://www.jstor.org/stable/4622337)  | Journal of Finance (JF) | TBR | |
 | 1986 | Capital Market Equilibrium with Transaction Costs | Constantinides | [Capital Market Equilibrium with Transaction Costs](https://www.jstor.org/stable/1833205) | Journal of Political Economy (JPE) | R | |
+| 2020 | Liquidity regimes and optimal dynamic asset allocation | Pierre Collin-Dufresne et al. | [Liquidty regimes and optimal dynamic asset allocation](https://www.sciencedirect.com/science/article/pii/S0304405X19302302) | Journal of Financial Economics (JFE) | R | |
 
 
 
